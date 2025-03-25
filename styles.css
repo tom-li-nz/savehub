@@ -1,3 +1,21 @@
 #header{
-    background-color: blue;
+    background-color: green;
   }
+
+#footer {
+   background-color: green;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+#container {
+    background-color: beige;
+    width: 800px;
+    margin: auto;
+}
+
+#content {
+    background-color: cornsilk;   
+}
